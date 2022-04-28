@@ -1,0 +1,252 @@
+.home{
+    position: absolute;
+    background-color: black;
+    width: 105%;
+    overflow: hidden;
+    left: -8px;
+    height: 600px;
+}
+
+.links{
+    position: relative;
+    color: darkslategrey;
+    font-weight: bold;
+    font-size: 24px;
+    top: 28px;
+    margin-left: 25px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.namelink{
+    color: darkslategrey;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    font-size: 24px;
+    top: 28px;
+    left:950px;
+}
+
+.homeimage{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: absolute;
+    width: 20%;
+}
+
+.aboutbody{
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 125px;
+    text-align: center;
+    font-size: 24px;
+    max-width: 500px;
+}
+
+.skills{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+}
+
+.aboutheader{
+    position: absolute;
+    color: blueviolet;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+.square{
+    position: absolute;
+    top: 100px;
+    left: 25px;
+}
+
+.pastwork1{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+
+.pastwork1title{
+    position: absolute;
+    top: 225px;
+    left: 200px;
+    font-size: 50px;
+    color: blueviolet;
+}
+
+.pastwork1header{
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    font-size: 24px;
+    color: black;
+    font-weight: lighter;
+}
+
+.pastwork1body{
+    position: absolute;
+    left: 800px;
+    top: 250px;
+    font-size: 18px;
+    max-width: 450px;
+}
+
+.pastwork2{
+    position: absolute;
+    top: 500px;
+}
+
+.pastwork2header{
+    position: absolute;
+    text-align: center;
+    left: 625px;
+    top: 525px;
+    color: white;
+}
+
+.pastwork2body{
+    color: white;
+    position: absolute;
+    max-width: 620px;
+    left: 460px;
+    top: 600px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.pastwork3{
+    position: absolute;
+    top: 900px;
+}
+
+.pastwork3header{
+    position: absolute;
+    color: blueviolet;
+    top: 925px;
+    left: 655px;
+    text-align: center;
+}
+
+.pastwork3body{
+    position: absolute;
+    color: black;
+    font-size: 18px;
+    max-width: 620px;
+    text-align: center;
+    left: 450px;
+    top: 1000px;
+}
+
+.showme1{
+    position: absolute;
+    left: 800px;
+    top: 375px;
+    text-decoration: none;
+    font-size: 24px;
+    color: blueviolet;
+}
+
+.showme2{
+    position: absolute;
+    left: 725px;
+    top: 750px;
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+}
+
+.showme3{
+    position: absolute;
+    left: 725px;
+    top: 1150px;
+    text-decoration: none;
+    font-size: 24px;
+    color: blueviolet;
+}
+
+.certificate{
+    position: absolute;
+    overflow: hidden;
+    top: 900px;
+}
+
+.certheader{
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    top: 925px;
+    left: 520px;
+}
+
+.cert1title{
+    position: absolute;
+    top: 1100px;
+    left: 50px;
+    max-width: 300px;
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+
+.cert1date{
+    position: absolute;
+    font-size: 30px;
+    top: 1200px;
+    left: 120px;
+    color: white;
+}
+
+.cert1body{
+    position: absolute;
+    font-size: 24px;
+    color: white;
+    top: 1125px;
+    left: 500px;
+    max-width: 800px;
+}
+
+.cert2title{
+    position: absolute;
+    font-size: 32px;
+    color: white;    
+    top: 1400px;
+    left: 75px;
+    text-align: center;
+}
+
+.cert2date{
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 1460px;
+    left: 100px;
+}
+
+.cert2body{
+    position: absolute;
+    font-size: 24px;
+    top: 1400px;
+    left: 500px;
+    max-width: 800px;
+    color: white;
+}
+
+.skillsetbg{
+    position: absolute;
+    top: 1800px;
+    overflow: hidden;
+}
+
+.skillsetheader{
+    position: absolute;
+    top: 1800px;
+    left: 700px;
+    color: blueviolet;
+    font-size: 50px;
+}
